@@ -1,27 +1,15 @@
 <?php
 
    /**
-   * host 18.x.x.x
+   * 
    * Test  Teeratus_R 2026-
    */
   
-// AWS Lightsail server 2 MySQL connection details
+// Remote MySQL connection details
 $servername = "localhost";
 $username = "teeratus";
 $password = "unstoppable";
 $db_name = "gcsbkkon_online_18";
-
-
-
-
-// Localhost MySQL connection details (if needed)
-// $servername = "localhost";
-// $username = "teeratus";
-// $password = "unstoppable";
-// $db_name = "gcsbkkon_online_18";
-
-
-  
 
 
 
