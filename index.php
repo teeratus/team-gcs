@@ -11,7 +11,8 @@
     <p>This is a simple website created using PHP and HTML.</p>
 
     <a href="config/db-connect.php">connect</a><br>
-    <a href="customer/010-viewAllCustomer.php">View customers</a>
+    <a href="customer/010-viewAllCustomer.php">View customers</a><br>
+    <a href="svo/020-viewAllSVO.php">View service orders</a><br>
 
 </body>
 </html>
